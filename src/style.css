@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}   
+#calc{
+    margin: 15% 25%;
+}
+#input{
+    background-color: rgb(46, 45, 45);
+    overflow: hidden;
+    border: 1px solid black;
+    font-size: 5em;
+    text-align: end;
+
+
+}
+
+#row1{
+    overflow: hidden;
+}
+#row2{
+    overflow: hidden;
+}
+#row3{
+    overflow: hidden;
+}
+#row4{
+    overflow: hidden;
+}
+#r1{
+    background-color: rgb(85, 85, 85);
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+    width: max-content;
+    display: flex;
+    
+}
+
+#cal{
+    background-color: rgb(255, 175, 1);
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+    width: max-content;
+    display: flex;
+}
+
+#number{
+    background-color: darkgray;
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+    width: max-content;
+    display: flex;
+}
